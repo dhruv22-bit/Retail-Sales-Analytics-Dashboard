@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,CostPrice,SellingPrice
+P001,Laptop,Electronics,45000,55000
+P002,Smartphone,Electronics,18000,25000
+P003,Office Chair,Furniture,3500,5500
+P004,Desk,Furniture,5000,8000
+P005,Headphones,Electronics,800,1500
+P006,Printer,Office Supplies,6000,8500
+P007,Notebook Pack,Office Supplies,120,250
+P008,Monitor,Electronics,7000,11000
+P009,Keyboard,Electronics,500,1200
+P010,Mouse,Electronics,300,800
