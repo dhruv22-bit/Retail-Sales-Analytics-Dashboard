@@ -9,16 +9,20 @@ This project focuses on analyzing retail sales data to identify business trends,
 
 ## Executive Summary
 
-![Executive Summary](Executive_Summary.png)
+<img width="1420" height="771" alt="Executive Summary" src="https://github.com/user-attachments/assets/cb1315bf-32f7-4a9a-942a-05e1a0c3b91d" />
+
 
 ## Sales Performance Analysis
 
-![Sales Analysis](Sales_Analysis.png)
+<img width="1415" height="791" alt="Sales Analysis" src="https://github.com/user-attachments/assets/081ea9be-259e-4db4-8a1f-75fafdc3a729" />
+
 
 ## Customer Analysis
 
-![Customer Analysis](Customer_Analysis.png)
+<img width="1417" height="791" alt="Customer Analysis" src="https://github.com/user-attachments/assets/320ab887-fa60-46ba-b58c-d6c3c899b8d7" />
+
 
 ## Business Insights & Recommendations
 
-![Business Insights](Business_Insights.png) 
+<img width="1412" height="790" alt="Business Insights" src="https://github.com/user-attachments/assets/91fc0fb6-e878-4c4f-b708-6e0de8fd9974" />
+
